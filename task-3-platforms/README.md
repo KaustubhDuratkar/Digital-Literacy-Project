@@ -18,4 +18,12 @@ I completed the **"Say 'Hello, World!' [cite_start]With Python"** challenge to d
 
 ### **1. Digital Literacy Quiz (Google Form)**
 [cite_start]The quiz consists of 5 questions covering 2FA, Phishing, and professional tools[cite: 53].
-* **Form Link**:
+* **Form Link**:https://docs.google.com/forms/d/e/1FAIpQLSd9AZE_YrQ2LwrenApbKAwieeYnKCxfmoO6dP9Yr3ZqV_ZYbA/viewform?usp=publish-editor
+2. Data Management (Google Sheets)
+The form is linked to a Google Sheet to track and analyze responses in real-time. ![Google Sheet Screenshot] 
+<img width="1913" height="479" alt="Google form " src="https://github.com/user-attachments/assets/7d5a4002-6207-41d2-92d1-3bc44d305309" />
+---
+
+## 📝 Reflection
+In this task, I practiced using industry-standard platforms like **HackerRank** and **Google Workspace**. These tools are vital for my academic journey at VIT Bhopal, as they facilitate both individual technical improvement and large-scale collaboration. Learning to manage data through linked sheets will specifically help me in my future AI/ML projects where organized datasets are required.
+
