@@ -31,7 +31,6 @@ Welcome to my final project repository for the **Digital Literacy** course at **
 ## 🚀 Technical Interests
 Beyond this project, I am passionate about:
 * **Python Development** (Simulations & Automation)
-* **Propulsion & Rocket Dynamics**
 * **Video Editing** (Adobe Premiere Pro)
 * **Rational Inquiry** and logical reasoning in engineering.
 
