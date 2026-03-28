@@ -13,7 +13,7 @@
 ---
 
 ## 📝 Project Overview
-As a Student Digital Ambassador, I have documented my journey through five modules designed to build a professional and safe digital presence. This report summarizes my learning and the technical artifacts created, specifically focusing on how digital literacy intersects with Mechanical Engineering.
+As a Student Digital Ambassador, I have documented my journey through five modules designed to build a professional and safe digital presence. This report summarizes my learning and the technical artifacts created, specifically focusing on how digital literacy intersects with CSE Engineering.
 
 ---
 
