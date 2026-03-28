@@ -13,3 +13,9 @@ I completed the **"Say 'Hello, World!' [cite_start]With Python"** challenge to d
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5c13c32e-1e94-4ddd-ace3-752634b5b3c7" />
 
 ---
+## 📊 Part B: Google Workspace Collaboration
+[cite_start]I developed a **Digital Literacy Awareness Quiz** to help my batchmates recognize online threats and follow best digital practices[cite: 52].
+
+### **1. Digital Literacy Quiz (Google Form)**
+[cite_start]The quiz consists of 5 questions covering 2FA, Phishing, and professional tools[cite: 53].
+* **Form Link**:
